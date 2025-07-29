@@ -45,7 +45,7 @@ Lightning Simple Social Share is a fasr light-weight social sharing plugin for W
 
 == Installation ==
 
-1. Upload the plugin files to `/wp-content/plugins/simple-social-share-buttons/` directory, or install through WordPress admin
+1. Upload the plugin file and install through WordPress admin
 2. Activate the plugin through the 'Plugins' screen in WordPress
 3. Configure settings under Settings > Social Share
 4. Share buttons will appear automatically based on your settings
