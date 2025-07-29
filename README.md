@@ -1,4 +1,5 @@
 === Lightning Simple Social Share ===
+
 Contributors: mohkatz, jojo256
 Tags: social media, share buttons, facebook, twitter, linkedin
 Requires at least: 5.0
